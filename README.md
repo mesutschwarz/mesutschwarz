@@ -30,3 +30,5 @@
 ---
 
 ⭐️ *"Code is the campfire where curiosity gathers."*
+
+![Mesut Schwarz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesutschwarz&show_icons=true&bg_color=00000000)
